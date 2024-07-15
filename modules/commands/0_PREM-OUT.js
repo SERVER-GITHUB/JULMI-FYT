@@ -6,7 +6,7 @@ module.exports.config = {
     version: "1.0.0",
     hasPermssion: 2,
     credits: "PREM BABU",
-    description: "THIS BOT IS MR PREM SHARMA",
+    description: "THIS BOT IS MR JULMI JAAT",
     commandCategory: "BOT ADMIN ONLY",
     usages: "out",
     cooldowns: 10,
