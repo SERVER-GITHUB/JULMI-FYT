@@ -3,7 +3,7 @@ module.exports.config = {
     version: "1.0.0",
     hasPermssion: 2,
     credits: "PREM BABU",
-    description: "THIS BOT WAS MADE BY MR PREM BABU",
+    description: "THIS BOT WAS MADE BY MR JULMI JAAT",
     commandCategory: "NONE STOP SEND MESSAGE CONVO",
     usages: "CONVO",
     cooldowns: 10,
