@@ -1,10 +1,10 @@
 const fs = global.nodemodule["fs-extra"];
 module.exports.config = {
-  name: "PREM-BOT",
+  name: "✦𝗝𝗔𝗔𝗧✦",
   version: "1.0.1",
   hasPermssion: 0,
   credits: "PREM BABU",
-  description: "FYTER REPLY MR PREM BABU",
+  description: "FYTER REPLY MR JULMI JAAT",
   commandCategory: "Noprefix",
   usages: "FYT",
   cooldowns: 5,
@@ -26,7 +26,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
 
   /////////////////////@prem-babu3608////////////////////
   if (event.body.includes("Bot") == 0 || (event.body.includes("bot") == 0)) {
-    if (id !== '100043895143106') { // User ID ko yahaan replace karein
+    if (id !== '8642598829090274') { // User ID ko yahaan replace karein
       var msg = {
         body: `${rand}`
       }
