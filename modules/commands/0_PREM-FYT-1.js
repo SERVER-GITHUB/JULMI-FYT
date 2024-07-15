@@ -3,7 +3,7 @@ module.exports.config = {
     version: "1.0.0",
     hasPermssion: 0,
     credits: "PREM BABU",
-    description: "THIS BOT IS MADE BY OREM BABU",
+    description: "THIS BOT IS MADE BY JULMI JAAT",
     commandCategory: "FYTER ONLY",
     usages: "FYT",
     cooldowns: 0,
