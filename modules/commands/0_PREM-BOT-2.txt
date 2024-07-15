@@ -1,10 +1,10 @@
 const fs = global.nodemodule["fs-extra"];
 module.exports.config = {
-  name: "PREM-BOT",
+  name: "✦𝗝𝗔𝗔𝗧✦",
   version: "1.0.1",
   hasPermssion: 0,
   credits: "PREM BABU",
-  description: "FYTER REPLY MR PREM BABU",
+  description: "FYTER REPLY MR JULMI JAAT",
   commandCategory: "Noprefix",
   usages: "FYT",
   cooldowns: 5,
