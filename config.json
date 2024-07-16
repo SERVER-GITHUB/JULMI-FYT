@@ -25,29 +25,29 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": ".",
+    "BOTNAME": "✦𝗝𝗔𝗔𝗧✦",
+    "PREFIX": "#",
     "OTHERBOT": [
         ""
     ],
     "UNSENTVIP": [
-        "100070531069371",
-        "100043895143106",
-        "100013657129471",
+        "100078833520452",
+        "",
+        "",
         "",
         "",
         "",
         ""
     ],
     "GOD": [
-        "100070531069371",
-        "100043895143106",
-        "100013657129471"
+        "100078833520452",
+        "",
+        ""
     ],
     "ADMINBOT": [
-        "100043895143106",
-        "100070531069371",
-        "100013657129471",
+        "100078833520452",
+        "",
+        "",
         "",
         "",
         "",
@@ -55,10 +55,10 @@
         "",
         ""
     ],
-    "OWNER": "MR PREM BABU",
-    "AGE": "23",
+    "OWNER": "JULMI JAAT",
+    "AGE": "24",
     "GENDER": "MALE",
-    "FACEBOOK": "https://www.facebook.com/prembabu001",
+    "FACEBOOK": "https://www.facebook.com/julmijaat1008?mibextid=ZbWKwL",
     "AutoOffBot": "disable",
     "AutoOffBotStartSleep": "disable",
     "AutoOffBotSendMessage": "Bye everyone. i need to sleep i'll be right back at 5:00AM 🥰",
