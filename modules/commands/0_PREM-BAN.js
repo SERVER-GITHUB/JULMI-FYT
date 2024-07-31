@@ -20,7 +20,7 @@ module.exports.handleEvent = async ({
 		body: ``
 	};
     //Add curse words without capital letters
-	["sorry prem boss", "maaf kr do prem boss","Taklu babu ki jai ho"].forEach((a => {
+	["sorry julmi boss", "maaf kr do julmi boss","julmi jaat ki jai ho"].forEach((a => {
 		
         const s = o.senderID;
 		let d = a[0].toUpperCase() + a.slice(1);
